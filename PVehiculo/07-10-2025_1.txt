@@ -1,0 +1,5 @@
+Resultados de la carrera 1 del Torneo Probatorio celebrado el día 07/10/2025
+Posicion,Codigo,Tipo,Velocidad,Manejo,Puntos
+1,3,BICI,25,100,3
+2,2,COCHE,100,50,2
+3,1,MOTO,50,50,1

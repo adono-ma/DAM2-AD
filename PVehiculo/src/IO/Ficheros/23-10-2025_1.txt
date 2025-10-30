@@ -1,0 +1,19 @@
+Resultados de la carrera 1 del Torneo Probatorio celebrado el día 23/10/2025
+
+Posicion,Codigo,Tipo,Rendimiento
+
+1.- 53,BICI,1076
+2.- 52,COCHE,803
+3.- 51,MOTO,653
+1.- 56,BICI,1077
+2.- 55,COCHE,801
+3.- 54,MOTO,652
+1.- 59,BICI,1076
+2.- 58,COCHE,802
+3.- 57,MOTO,653
+1.- 62,BICI,1077
+2.- 61,COCHE,803
+3.- 60,MOTO,653
+1.- 65,BICI,1078
+2.- 64,COCHE,801
+3.- 63,MOTO,652

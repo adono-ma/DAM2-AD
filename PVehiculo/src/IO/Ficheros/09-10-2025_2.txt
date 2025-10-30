@@ -1,0 +1,9 @@
+Resultados de la carrera 2 del Torneo Probatorio celebrado el día 09/10/2025
+
+Posicion,Codigo,Tipo,Rendimiento
+
+1.- 2,COCHE,1153
+2.- 1,MOTO,653
+1.- 4,COCHE,1151
+2.- 3,MOTO,651
+3.- 5,BICI,552
